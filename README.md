@@ -1,7 +1,5 @@
 - 👋 HEYYY, I'm @akshayAR17  
-- 🌱 STUDIED IN CBSE BOARD
-- 💞️ 2ND YEAR CSE STUDENT FROM BMSIT
-- 📫 CODING IS MY PASSION :-)
+- 😉 3RD YEAR CSE STUDENT FROM BMSIT 😎
 
 <!---
 akshayAR17/akshayAR17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
