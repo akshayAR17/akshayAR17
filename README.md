@@ -1,5 +1,5 @@
 - 👋 HEYYY, I'm @akshayAR17  
-- 😉 3RD YEAR CSE STUDENT FROM BMSIT 😎
+- 😉 FINAL YEAR CSE STUDENT FROM BMSIT 😎
 
 <!---
 akshayAR17/akshayAR17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
